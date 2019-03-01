@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    
+        <title>Sarah's Page</title>
+        <link href="home.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>
+
+<a href="Home.html"target="_blank" >Home</a>
+<a href="Why%3F.html"target="_blank" >About the Page</a>
+<a href="About%20me.html" target="_blank" >About Me</a>
+<a href="Countries.html" target="_blank">Countries to Learn About</a>
+
+<h1>Welcome!</h1>
+
+<img src="/Users/sarahcondon1/Developer/test project/images/Venice.jpg" alt="Outdoors" width="600" height="600" align="center">
+<br>
+<p>This page is an overview of my travels and what got me to where I am today.</p>
+ 
+</body>
+</html>
